@@ -6,7 +6,7 @@
             <authors>
                 <author>Miller Smith Puckette</author>
             </authors>
-            <description>Pass non-negative values unchanged, replace negative values with their positive inverse</description>
+            <description>Absolute value</description>
             <license>BSD</license>
             <library>puredata</library>
             <category>math</category>
