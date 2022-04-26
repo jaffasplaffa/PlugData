@@ -6,7 +6,7 @@
             <authors>
                 <author>Miller Smith Puckette</author>
             </authors>
-            <description>absolute value</description>
+            <description>Absolute value</description>
             <license>BSD</license>
             <library>puredata</library>
             <category>audio math</category>
@@ -17,7 +17,6 @@
             <par>-</par>
         </info>
         <arguments>
-            <argument name="ARG_NAME" type="symbol">-</argument>
         </arguments>
         <methods>
         </methods>
